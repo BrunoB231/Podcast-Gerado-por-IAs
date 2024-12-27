@@ -6,9 +6,9 @@ Projeto com o objetivo de gerar uma chamada de podcast utilizando ferramentas de
 
 💻 Como foi feito?
 
-- Roteiro gerado via chatgpt
+- Nome do podcast (SQLight) e roteiro gerados via chatgpt
 - Áudio gerado pela elevenLabs
-- ChatGPT utilizado para gerar capas
+- ChatGPT utilizado para gerar a capa
 
 🛠️ Execução
 
