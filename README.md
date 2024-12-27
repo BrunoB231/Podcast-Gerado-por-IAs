@@ -3,6 +3,7 @@
 Projeto com o objetivo de gerar uma chamada de podcast utilizando ferramentas de IA através de prompts.
 
 💻 Como foi feito?
+
 Roteiro gerado via chatgpt
 Áudio gerado pela elevenLabs
 ChatGPT utilizado para gerar capas
