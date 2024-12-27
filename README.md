@@ -15,5 +15,5 @@ Projeto com o objetivo de gerar uma chamada de podcast utilizando ferramentas de
 Foram utilizados os seguintes prompts de comando:
 
 - Roteiro: "Gere um texto para chamada de um podcast sobre SQL para iniciantes, e também invente um nome curto e criativo para o podcast".
-- Aúdio gerado no ElevenLabs sem utilização de prompt.
+- Aúdio gerado no ElevenLabs como texto criado pelo ChatGPT "Quer começar a dominar o universo dos bancos de dados, mas não sabe por onde começar? No SQLight, descomplicamos o SQL com dicas práticas, explicações simples e exemplos reais. Se você é iniciante ou está curioso sobre como transformar dados em decisões, esse é o podcast para você! Aperte o play e comece sua jornada hoje mesmo".
 - Capa: "Agora gere uma capa para esse podcast, baseada na imagem do apresentador do podcast, que é um homem jovem, descolado e tecnológico".
