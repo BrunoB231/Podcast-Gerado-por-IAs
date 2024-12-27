@@ -4,15 +4,15 @@ Projeto com o objetivo de gerar uma chamada de podcast utilizando ferramentas de
 
 💻 Como foi feito?
 
-Roteiro gerado via chatgpt
-Áudio gerado pela elevenLabs
-ChatGPT utilizado para gerar capas
-Capcut para tratar áudio e adicionar sons de fundo
+- Roteiro gerado via chatgpt
+- Áudio gerado pela elevenLabs
+- ChatGPT utilizado para gerar capas
+- Capcut para tratar áudio e adicionar sons de fundo
 
 🛠️ Execução
 
 Foram utilizados os seguintes prompts de comando:
 
-🤖 1. Use os prompts de roteiro nochagpt
-🤖 2. Use os prompts de roteiro gerados pelo chatgpt no ElevenLabs
-🤖 3. Use os prompts de artes nomidjourney
+🤖 - Use os prompts de roteiro nochagpt
+🤖 - Use os prompts de roteiro gerados pelo chatgpt no ElevenLabs
+🤖 - Use os prompts de artes nomidjourney
