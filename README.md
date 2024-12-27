@@ -13,6 +13,6 @@ Projeto com o objetivo de gerar uma chamada de podcast utilizando ferramentas de
 
 Foram utilizados os seguintes prompts de comando:
 
-🤖 - Use os prompts de roteiro nochagpt
+- Roteiro: "Gere um texto para chamada de um podcast sobre SQL para iniciantes, e também invente um nome curto e criativo para o podcast".
 🤖 - Use os prompts de roteiro gerados pelo chatgpt no ElevenLabs
 🤖 - Use os prompts de artes nomidjourney
